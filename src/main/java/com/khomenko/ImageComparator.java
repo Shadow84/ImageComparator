@@ -1,4 +1,4 @@
-package main.java.com.khomenko;
+package com.khomenko;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

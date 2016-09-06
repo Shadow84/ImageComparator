@@ -1,4 +1,4 @@
-package main.java.com.khomenko;
+package com.khomenko;
 
 /**
  * Created by Privat on 06.09.2016.
