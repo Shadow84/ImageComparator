@@ -7,6 +7,7 @@ public class GroupUtil {
 
     /**
      * Group rectangle regions in binary matrix.
+	 *
      *
      * @param matrix The binary matrix
      * @param threshold The threshold number of neighbor elements of matrix
